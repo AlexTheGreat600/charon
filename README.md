@@ -1,2 +1,2 @@
-# charon
-🚀 Pluto - Auto Reload The Specified Command On File Size Change.
+# Charon
+🚀 Charon - Auto Reload The Specified Command On File Size Change.
